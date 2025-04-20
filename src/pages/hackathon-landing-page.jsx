@@ -5,7 +5,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/pagination';
 import Masonry from 'react-masonry-css';
-
+import imagesLoaded from 'imagesloaded';
 import {
   Award,
   Calendar,
